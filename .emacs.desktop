@@ -1,0 +1,30 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jul 20 07:24:59 2018
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23377 61627 445789 582000) (desktop . "206") "cl@Mint18" nil nil ((((font-backend xft x) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 10") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "black") (background-color . "white") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 14) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . light) (cursor-color . "black") (sticky) (environment) (frameset--id . "614F-CFE2-EFB2-B6CA") (frameset--mini t . t) (height . 35) (width . 129) (modeline . t) (minibuffer . t) (unsplittable) (left . 822) (top . 33) (icon-name) (visibility . t) (display . ":0.0") (explicit-name)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 120) (min-pixel-width . 80) (min-pixel-height-ignore . 90) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 30) (min-pixel-width-safe . 16)) vc (pixel-width . 1065) (pixel-height . 510) (total-width . 133) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1065) (pixel-height . 255) (total-width . 133) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "initciel.el" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars 14 2 t nil) (vscroll . 0) (dedicated) (point . 1417) (start . 946))) (leaf (last . t) (pixel-width . 1065) (pixel-height . 255) (total-width . 133) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "*Backtrace*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars 14 2 t nil) (vscroll . 0) (dedicated) (point . 593) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/catkin_ws/" "~/.emacs.d/initciel.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/cl/.emacs.d/initciel.el"
+  "initciel.el"
+  'emacs-lisp-mode
+  '(override-global-mode global-auto-revert-mode linum-mode ethan-wspace-mode)
+  1417
+  '(1224 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . prefer-utf-8-unix)))
+
